@@ -19,7 +19,7 @@ while __session_ongoing == True:
           ## Stuff
 ```
 #### Message Variables
-````py
+```py
 message_flags   = message.split(":")[0
 message_author  = message.split(":")[1]
 message_id      = message.split(":")[2]
